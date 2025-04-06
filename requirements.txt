@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-opencv-python
-numpy
-scikit-learn
-deepface
-tf-keras
-tensorflow==2.13.0  # Avoids keras compatibility issues
